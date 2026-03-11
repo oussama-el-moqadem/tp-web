@@ -4,6 +4,7 @@ import Login from './features/auth/Login';
 import Header from './components/Header';
 import Sidebar from './components/Sidebar';
 import MainContent from './components/MainContent';
+import Tooltip from "./components/Tooltip";
 
 interface Project { id: string; name: string; color: string; }
 interface Column { id: string; title: string; tasks: string[]; }
