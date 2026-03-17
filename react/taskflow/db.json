@@ -34,6 +34,11 @@
       "id": "3",
       "name": "API Backend",
       "color": "#2ecc71"
+    },
+    {
+      "id": "fa7e",
+      "name": "Frontend",
+      "color": "#1b1c1d"
     }
   ],
   "columns": [

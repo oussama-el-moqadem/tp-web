@@ -34,8 +34,16 @@
   align-items:center;
   gap:10px;
   padding:10px;
+  text-decoration: none;
   border-radius:10px;
+  transition: background 0.2s;
   cursor:pointer;
+}
+
+.active{
+  background: #dff3e6;
+  color : #1B8C3E;
+  font-weight: 600;
 }
 
 .item:hover{
