@@ -1,0 +1,31 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+
+}
+
+.loading {
+    padding: 2rem;
+}
+
+.main {
+    padding: 2rem;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.dot {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+}
+
+.info {
+    color: gray;
+}
